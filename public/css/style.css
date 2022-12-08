@@ -1,0 +1,225 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("../img/bg.jpg");
+  height: 100vw;
+  width: 100vw;
+  background-repeat: round;
+}
+
+.titre1 {
+  text-align: center;
+  padding: 5vw;
+  color: white;
+  font-size: 36px;
+  font-style: bold;
+}
+
+.sstitre {
+  font-size: 16px;
+  font-style: italic;
+}
+
+.femme {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.titre2 {
+  background: white;
+  color: black;
+  height: 15vh;
+  padding-top: 7vh;
+  padding-bottom: 2vh;
+  margin-left: 10vw;
+  margin-right: 10vw;
+}
+
+.cotes {
+  padding-left: 19vw;
+  padding-right: 19vw;
+}
+
+.titre22 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 32px;
+  margin: 0px;
+  margin-left: 10vw;
+  margin-right: 10vw;
+}
+
+.sstitre22 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0, 811px;
+}
+
+hr {
+  color: grey;
+  width: 5vw;
+  border-radius: 5px;
+}
+
+.textesection {
+  color: grey;
+  background-color: white;
+  margin-top: 0px;
+  margin-left: 10vw;
+  margin-right: 10vw;
+}
+
+.longtxt {
+  -webkit-margin-before: 0em;
+          margin-block-start: 0em;
+  -webkit-margin-after: 0em;
+          margin-block-end: 0em;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+  background-color: #f4f4f4;
+  padding-left: 5vw;
+  padding-right: 5vw;
+}
+
+.carrenoir {
+  background-color: #393b3d;
+  padding-top: 6vh;
+  padding-bottom: 6vh;
+  margin-left: 10vw;
+  margin-right: 10vw;
+}
+
+.carrenoir1 {
+  background-color: #393b3d;
+  padding-top: 6vh;
+  padding-bottom: 0vh;
+  margin-left: 10vw;
+  margin-right: 10vw;
+}
+
+.titre3 {
+  text-align: center;
+  padding-top: 5vw;
+  color: white;
+  font-size: 33px;
+  font-style: bold;
+  background-color: black;
+  margin-left: 10.4vw;
+  margin-right: 10.3vw;
+}
+
+.sstitre3 {
+  color: #393b3d;
+  font-size: 16px;
+  font-style: italic;
+  padding-bottom: 5vh;
+}
+
+.imagebas {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.imagehaut {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.photo1111 {
+  marging: 0px;
+  padding: 0px;
+}
+
+.cadre1 {
+  display: flex;
+}
+
+.pcadre {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  -webkit-margin-before: 0em;
+          margin-block-start: 0em;
+  -webkit-margin-after: 0em;
+          margin-block-end: 0em;
+  padding-left: 3vw;
+  padding-right: 3vw;
+  color: white;
+  background-color: #393b3d;
+}
+
+.pcadre1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  -webkit-margin-before: 0em;
+          margin-block-start: 0em;
+  -webkit-margin-after: 0em;
+          margin-block-end: 0em;
+  padding-left: 3vw;
+  padding-right: 3vw;
+}
+
+.cadre1ecrit {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  background-color: #393b3d;
+  -webkit-margin-before: 0em;
+          margin-block-start: 0em;
+  -webkit-margin-after: 0em;
+          margin-block-end: 0em;
+  padding-left: 3vw;
+  padding-right: 3vw;
+}
+
+.titrecadre {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  -webkit-margin-before: 0em;
+          margin-block-start: 0em;
+  -webkit-margin-after: 0em;
+          margin-block-end: 0em;
+  padding-left: 20vw;
+  padding-right: 3vw;
+  padding-top: 20vh;
+  background-color: #393b3d;
+  font-size: 32px;
+}
+
+.cadre1ecrit1 {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  -webkit-margin-before: 0em;
+          margin-block-start: 0em;
+  -webkit-margin-after: 0em;
+          margin-block-end: 0em;
+  padding-left: 3vw;
+  padding-right: 3vw;
+}
+
+.titrecadre1 {
+  color: #393b3d;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  -webkit-margin-before: 0em;
+          margin-block-start: 0em;
+  -webkit-margin-after: 0em;
+          margin-block-end: 0em;
+  padding-right: 20vw;
+  padding-top: 15vh;
+  background-color: white;
+  font-size: 32px;
+}
