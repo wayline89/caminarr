@@ -32,8 +32,6 @@ body {
   height: 15vh;
   padding-top: 7vh;
   padding-bottom: 2vh;
-  margin-left: 10vw;
-  margin-right: 10vw;
 }
 
 .cotes {
@@ -47,8 +45,6 @@ body {
   align-items: center;
   font-size: 32px;
   margin: 0px;
-  margin-left: 10vw;
-  margin-right: 10vw;
 }
 
 .sstitre22 {
@@ -68,6 +64,9 @@ hr {
   color: grey;
   background-color: white;
   margin-top: 0px;
+}
+
+.blabla {
   margin-left: 10vw;
   margin-right: 10vw;
 }
