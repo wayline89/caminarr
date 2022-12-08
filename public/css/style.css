@@ -131,7 +131,7 @@ hr {
 }
 
 .photo1111 {
-  margin: 0px;
+  marging: 0px;
   padding: 0px;
 }
 
@@ -222,4 +222,21 @@ hr {
   padding-top: 15vh;
   background-color: white;
   font-size: 32px;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  color: white;
+  margin-left: 10vw;
+  margin-right: 10vw;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+
+.logomid {
+  margin-left: 3vw;
+  margin-right: 3vw;
 }
